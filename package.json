@@ -1,6 +1,6 @@
 {
-  "name": "processmd",
-  "version": "4.4.2",
+  "name": "parsemd",
+  "version": "0.1.0",
   "description": "Process a directory of markdown and yaml files to JSON files",
   "main": "index.js",
   "bin": {
@@ -30,7 +30,7 @@
     "yaml",
     "json"
   ],
-  "author": "Tim Scanlin",
+  "author": "lian",
   "license": "MIT",
   "dependencies": {
     "globby": "^9.0.0",
