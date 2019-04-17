@@ -1,10 +1,10 @@
 {
-  "name": "parsemd",
-  "version": "0.1.0",
+  "name": "parsemarkdown",
+  "version": "0.1.1",
   "description": "Process a directory of markdown and yaml files to JSON files",
   "main": "index.js",
   "bin": {
-    "processmd": "./cli.js"
+    "parsemarkdown": "./cli.js"
   },
   "scripts": {
     "prettier": "prettier --write --single-quote --trailing-comma --no-semi *.js",
